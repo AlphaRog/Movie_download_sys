@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654323479 source:d:\projects\pdsa\new folder\tr\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+
